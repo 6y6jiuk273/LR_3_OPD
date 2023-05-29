@@ -5,3 +5,4 @@
 **Задание:** Поиск самого частого слова в файле  
 ![E01jBnjqpvE](https://github.com/6y6jiuk273/LR_3_OPD/assets/125188456/473111fa-4aec-4f07-805d-1c945ec7f9db)  
 ![pEIqlW2E7HQ](https://github.com/6y6jiuk273/LR_3_OPD/assets/125188456/ce4553ce-9c79-4efb-8551-31a00a19f403)  
+![image](https://github.com/6y6jiuk273/LR_3_OPD/assets/125188456/5ed3b11b-6a09-4992-b633-9ef1c573b03d)  
